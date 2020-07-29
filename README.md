@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Olá sou Adriana Cristina Lefchak MAckievicz 👋
+- 💬 Formada em sistemas de informação pela faculdade Mater Dei. Atuo como desenvolvedora desde 2008. 
+- 🔭Inicialmente com Vb6 em ERPs Desktop e desde 2010 com webforms para web na empresa Sponte.
+- ⚡Aprendendo React!
 <!--
 **drimackievicz/drimackievicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
